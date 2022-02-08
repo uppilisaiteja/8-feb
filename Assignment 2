@@ -1,0 +1,12 @@
+a=int(input("enter ur number"))
+b=int(input("enter ur 2nd number"))
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+if
+a=10
+b=5
+
