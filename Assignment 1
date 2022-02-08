@@ -3,3 +3,4 @@ a=int(input("enter kilometers"))
 cm=a*10**5
 
 print(cm)
+
